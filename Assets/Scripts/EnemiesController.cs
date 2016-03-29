@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class EnemiesController : MonoBehaviour {
+public class EnemiesController : EnemyBase {
 
 	// Use this for initialization
 	void Start () {
